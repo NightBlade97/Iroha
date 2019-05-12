@@ -1,0 +1,47 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>Warehouse page</title>
+    <meta name="description" content="Send">
+
+    <!--<link rel="stylesheet" href="css/styles.css?v=1.0">-->
+
+</head>
+<style>
+        p {
+                color: white
+        }
+        p1 {
+            color: white
+        }
+</style> 
+
+
+<body>
+    <!--<script src="js/scripts.js"></script>-->
+    <body bgcolor="black"></body>
+    <p1>
+        Welcome Warehouse! You have {{ dpcoin }} DPcoins, {{ component }} components for PC!
+        <form action="/send/warehouse" method="POST">
+            <p>
+                Enter name of recipient <input name='recipient' type="text" size="20">
+            </p>
+            <p>
+                Which type of asset to send? <input name='asset' type="text" size="20">
+            </p>
+            <p>
+                Enter amount of asset <input name='amount' type="number" size="10">
+            </p>
+            <p>
+                <input type="submit">
+            </p>
+        </form>
+    </p1>
+
+</body>
+
+</html>
