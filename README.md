@@ -26,4 +26,4 @@ Go to http://127.0.0.1:5000 to use DigitalPerfectionPC. Supported names: client,
 
 Go to http://127.0.0.1:5000/admin to admin page.
 
-[![Proof of work](https://img.youtube.com/vi/pl8wF0pjIU8&/0.jpg)](https://www.youtube.com/watch?v=pl8wF0pjIU8&)
+[![Proof of Working](http://img.youtube.com/vi/pl8wF0pjIU8/0.jpg)](http://www.youtube.com/watch?v=pl8wF0pjIU8 "Proof of Working")
